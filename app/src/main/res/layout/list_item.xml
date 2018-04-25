@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cardView="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/attraction_card_main_height"
+    android:layout_margin="@dimen/dp_6"
+    android:elevation="2dp"
+    android:backgroundTint="@android:color/white"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    cardView:cardCornerRadius="@dimen/corner_radius">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/location_image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/attraction_image_main_height"
+            android:scaleType="centerCrop"
+            tools:src="@drawable/kotel" />
+
+        <TextView
+            android:id="@+id/location_name"
+            style="@style/ListIemTextViewTheme"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="90dp"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/location_name_textSize"
+            tools:text="@string/location_placeHolder" />
+
+        <RatingBar
+            android:id="@+id/rating_bar"
+            style="?android:attr/ratingBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            tools:rating="4.5"
+            android:stepSize="0.5"
+            android:layout_marginLeft="@dimen/text_margin_left"
+            android:layout_below="@id/location_image"
+            android:layout_marginTop="@dimen/dp_8"/>
+
+        <TextView
+            android:id="@+id/opening_hours"
+            style="@style/ListIemTextViewTheme"
+            tools:text="@string/opening_hours_placeHolder"
+            android:textAllCaps="true"
+            android:textSize="@dimen/opening_hours_textSize"
+            android:layout_below="@id/rating_bar"/>
+
+        <TextView
+            android:id="@+id/short_description_view"
+            style="@style/ListIemTextViewTheme"
+            android:layout_below="@id/opening_hours"
+            tools:text="@string/description_placeHolder"
+            android:textSize="@dimen/description_textSize"/>
+
+
+    </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>

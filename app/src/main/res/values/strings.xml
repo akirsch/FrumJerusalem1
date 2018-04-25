@@ -1,0 +1,307 @@
+<resources>
+    <string name="app_name">Frum Jerusalem</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Dining</string>
+
+    <!-- Category name for parks [CHAR LIMIT=20] -->
+    <string name="category_parks">Parks</string>
+
+    <!-- Category name for religious sites [CHAR LIMIT=20] -->
+    <string name="category_indoors">Indoors</string>
+
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_outdoors">Outdoors</string>
+
+    <!-- Place holder strings -->
+    <string name="location_placeHolder">The Kotel</string>
+    <string name="opening_hours_placeHolder">Open 24 hours</string>
+    <string name="description_placeHolder">This is a short description</string>
+
+    <!-- Clickable Views in Details Activity -->
+    <string name="directions">Directions</string>
+    <string name="call">Call</string>
+    <string name="website">Website</string>
+    <string name="about">About</string>
+
+    <string name="noPhoneNumber">No phone Number</string>
+
+    <!-- The Kotel -->
+    <string name="kotel_name">The Kotel</string>
+    <string name="kotel_summary">Last remaining wall of Second Temple. Holy Jewish site</string>
+    <string name="kotel_times">Open 24 Hours</string>
+    <string name="kotel_description">The Western Wall or Kotel, is an ancient limestone wall in the Old City of Jerusalem.\n
+        It is a relatively small segment of a far longer ancient retaining wall.
+        The wall was originally erected as part of the expansion of the Second Jewish Temple begun by Herod the Great.
+        The Western Wall is considered holy due to its connection to the Temple Mount</string>
+    <string name="kotel_address">The Old City</string>
+    <string name="kotel_url">https://english.thekotel.org/</string>
+    <string name="kotel_phone_number">+972&#8211;26271333</string>
+
+    <!-- Machane Yehudah -->
+    <string name="machane_yehudah_name">Machane Yehudah</string>
+    <string name="machane_yehudah_summary">Vibrant Market In Central Jerusalem</string>
+    <string name="machane_yehudah_times">8am until 7pm</string>
+    <string name="machane_yehudah_description">World-famous icons of Jerusalem include the Western Wall, the Tower of David and the Machane Yehuda market.
+        The Western Wall and the Tower of David represent the religious, historical nature of Jerusalem, the place from which the Jewish people developed.
+        Machane Yehuda market, however, represents the contemporary—and the future heart of Jerusalem.
+        Machane Yehuda integrates, in a unique way, the old and the new. Both a bustling marketplace and a neighborhood, it incorporates food, drink, shopping, bars, restaurants.
+        The shuk still retains its most important characteristics, it remains authentic, with all the flavors and aromas, the colors and the traders interaction with the crowds.
+        The Machane Yehuda market is widely recognized as a symbol of the Jerusalem, and for a very good reason: Jerusalemites see it as a place that represents them, symbolizes them,
+        and gives them a unique identity in a larger Israeli social context. But this name has something inexpressible to language.Even though Jerusalem today has many shopping and entertainment centers,
+        some are even at several hotels in Jerusalem, there is something about the Machane Yehuda market that attracts people, even without a shopping list. Perhaps it is the ability to simply be who we are people who love life and who love Jerusalem.</string>
+    <string name="machane_yehudah_address">Rehov Mahane Yehuda, Jerusalem</string>
+    <string name="machane_yehuah_url">http://en.machne.co.il/</string>
+
+    <!-- Biblical Zoo -->
+    <string name="zoo_name">The Biblical Zoo</string>
+    <string name="zoo_summary">The Biggest Zoo In Israel</string>
+    <string name="zoo_times">9am until 6pm</string>
+    <string name="zoo_description">The Tisch Family Zoological Gardens, also known as the Biblical Zoo, opened in Jerusalem’s Malha neighborhood in 1993.
+        The Zoo Stretches across almost 100 acres, and is ranked year after year as one of the top tourist sites in Israel, attracting over 750,000 visitors annually.
+        The Zoo’s scenic location in the Judean hills with its varied animal exhibits, draws people from all threads of Jerusalem’s vibrant social fabric Jewish,
+        Christian and Muslim; secular and religious: young and old; and tourists and locals. Thus the Zoo has become a bridge between communities.
+        It is one of the few sites in Israel where everyone comes together and feels welcome.</string>
+    <string name="zoo_address">1 Derech Aharon Shulov, Jerusalem</string>
+    <string name="zoo_url">http://www.jerusalemzoo.org/</string>
+    <string name="zoo_phone_number">+972&#8211;26750111</string>
+
+    <!-- Yemin Moshe -->
+    <string name="yemin_name">Yemin Moshe</string>
+    <string name="yemin_summary">First neighborhood outside old city walls</string>
+    <string name="yemin_times">Open 24 hours</string>
+    <string name="yemin_description">Yemin Moshe was established in 1892–1894 by the Montefiore Welfare Fund.
+        Located outside Jerusalem\'s Old City, it was conceived as a solution to the overcrowding and unsanitary
+        conditions inside the walls. The Fund was continuing the work done by British Jewish banker Moses Montefiore
+        and the new project was meant to mark the seventh year after the philanthropist's death.
+        The name commemorates Montefiore's first name and a verse from the Book of Isaiah.</string>
+    <string name="yemin_address">Yemin Moshe, Jerusalem</string>
+    <string name="yemin_url">https://www.touristisrael.com/yemin-moshe-jerusalem/6111/</string>
+
+    <!-- Jaffa Gate -->
+    <string name="jaffa_name">Jaffa Gate</string>
+    <string name="jaffa_times">Open 24 Hours</string>
+    <string name="jaffa_summary">Main entrance into the Ol City</string>
+    <string name="jaffa_description">One of the seven open gates of the Old City, Jaffa Gate serves as the main tourist
+        entry point to the city. Just inside the gate, you’ll find the Old City bazaar and the Tower of David Museum.
+        Jaffa Gate is one of the most beautiful and important gates among the gates of the Ottoman city wall from the 16th century.
+        The gate is named after Jaffa- the city to which this path lead. The Arab name for this gate is “Bab El Khalil”,
+        named after the city of Hebron (El Khalil in Arabic) to which the southern path starting from Jaffa Gate leads.</string>
+    <string name="jaffa_address">Jaffa Gate, Jerusalem</string>
+    <string name="jaffa_url">https://www.itraveljerusalem.com/ent/jaffa-gate/</string>
+
+
+
+    <!-- The Israel Museum -->
+    <string name="israel_museum_name">The Israel Museum</string>
+    <string name="israel_museum_summary">Amazing historical artifacts of The People of Israel</string>
+    <string name="israel_museum_times">10am until 5pm</string>
+    <string name="israel_museum_description">The Israel Museum  was established in 1965 as Israel\'s national museum.
+        Among the unique objects on display are the Venus of Berekhat Ram, the interior of a 1736 Zedek ve Shalom synagogue from Suriname,
+        necklaces worn by Jewish brides in Yemen and a mosaic Islamic prayer niche from 17th-century Persia.
+        An urn-shaped building on the grounds of the museum, the Shrine of the Book,
+        houses the Dead Sea Scrolls and artifacts discovered at Masada. It is one of the largest museums in the region.</string>
+    <string name="israel_museum_address">Derech Ruppin 11</string>
+    <string name="israel_museum_url">http://www.imj.org.il/en/</string>
+    <string name="israel_museum_phone_number">+9722&#8211;6708811</string>
+
+    <!-- Yad Vashem -->
+    <string name="yad_vashem_name">Yad Vashem</string>
+    <string name="yad_vashem_summary">Holocaust Memorial Center</string>
+    <string name="yad_vashem_times">8:30am until 5pm</string>
+    <string name="yad_vashem_decription">Yad Vashem is Israel\'s official memorial to the victims of the Holocaust.
+        It is dedicated to preserving the memory of the dead; honoring Jews who fought against their Nazi oppressors and Gentiles
+        who selflessly aided Jews in need, and researching the phenomenon of the Holocaust in particular and genocide in general,
+        with the aim of avoiding such events in the future.</string>
+    <string name="yad_vashem_address">Har Hazikaron, Jerusalem</string>
+    <string name="yad_vashem_url">https://www.yadvashem.org/</string>
+    <string name="yad_vashem_phone_number">+9722&#8211;6443400</string>
+
+    <!-- The Israel Aquarium -->
+    <string name="aquarium_name">The Israel Aquarium</string>
+    <string name="aquarium_summary">Israel\'s first and only Aquarium!</string>
+    <string name="aquarium_times">Advance Bookings Only</string>
+    <string name="aquarium_description">The Gottesman Family Israel Aquarium, Jerusalem is a public aquarium in Israel inaugurated
+        on 19.6.2017. The aquarium focuses on Israel\'s marine environment - the Red Sea and the Mediterranean Sea as well
+        as on the Sea of Galilee and the Dead Sea. The aquarium was built by the Tish Family Zoological Gardens
+        (the Biblical Zoo in Jerusalem) and is located next to it, but stands on its own as a separate tourist attraction.
+        The aquarium will open to the general public for a running in period during the summer of 2017. </string>
+    <string name="aquarium_address">1 Aharon Shulov, Jerusalem</string>
+    <string name="aquarium_url">https://www.israel-aquarium.org.il/english</string>
+    <string name="aquarium_phone_number">+97273&#8211;3399000</string>
+
+    <!-- Science Museum -->
+    <string name="science_museum_name">Bloomfield Science Museum</string>
+    <string name="science_museum_summary">A fun packed educational day out</string>
+    <string name="science_museum_times">10am until 6pm</string>
+    <string name="science_museum_description">The Bloomfield Science Museum in Jerusalem is an informal cultural and educational institution
+        that presents exhibitions consisting of interactive exhibits on subjects of science and technology,
+        and integrates these exhibits into a context through a wide range of educational activities.
+        The goals of the museum are to increase interest among the general public in science and technology
+        in the world around us, to promote excellency in sciences among youth, and to present science and technology
+        as an integral part of human culture.</string>
+    <string name="science_museum_address">Museum Boulevard, Jerusalem</string>
+    <string name="science_museum_url">http://www.mada.org.il/en/</string>
+    <string name="science_museum_phone_number">+9722&#8211;6544888</string>
+
+    <!-- Kotel Tunnel Tours -->
+    <string name="tunnel_tours_name">Kotel Tunnel Tours</string>
+    <string name="tunnel_tours_summary">A journey through time to the history of Jerusalem</string>
+    <string name="tunnel_tours_times">7am until late at night</string>
+    <string name="tunnel_tours_description">The Western Wall of the Temple Mount is one of the most magnificent
+        and significant remnants in Jerusalem from the days of the Second Temple, destroyed approximately 2,000 years ago.
+        The Western Wall stretches along almost half a kilometer, but today, the part visible to all at the Western Wall Plaza
+        is a mere 70 meters of it. The tour of the Western Wall Tunnels allows visitors to reach the segments of the Wall hidden
+        from view, and to touch the original and special stones that tell the story of the Jewish nation. Visitors to the Western
+        Wall Tunnels walk through ancient and fascinating subterranean spaces with exquisite archeological findings, such as large
+        stone arches, water pits, an ancient water aqueduct that ends at the Strouthion Pool, and more.</string>
+    <string name="tunnel_tours_address">Entrance from the Kotel</string>
+    <string name="tunnel_tours_url">https://english.thekotel.org/western_wall_sites/western_wall_tunnels/</string>
+    <string name="tunnel_tours_phone_number">+9722&#8211;6271333</string>
+
+    <!-- Teddy Park -->
+    <string name="teddy_park_name">Teddy Park</string>
+    <string name="teddy_park_summary">Have fun in the fountains</string>
+    <string name="teddy_park_times">7am until 10pp</string>
+    <string name="teddy_park_description">Teddy Park is a public park situated opposite Jerusalem\'s Old City and David\'s Citadel.
+        The park was developed by the Jerusalem Foundation in memory of Jerusalem\'s long serving mayor, Teddy Kollek
+        and opened to the public in 2013. A major feature of the park is its splash fountain that orchestrates animated water,
+        sound and lighting. Water shoots from the fountains in sync with music every 30 minutes.
+        In the evening a light show plays while during the day children run among the water spouts.</string>
+    <string name="teddy_park_address">Pele Yoets Jerusalem</string>
+    <string name="teddy_park_url">https://www.funinjerusalem.com/teddy-kollek-park/</string>
+
+    <!-- Gan Hapaamon -->
+    <string name="bell_park_name">Gan HaPaamon</string>
+    <string name="bell_park_summary">Park with activities for children</string>
+    <string name="bell_park_times">Open 24 hours</string>
+    <string name="bell_park_description">Gan HaPaamon, also known as Liberty Bell Park, is located in the center of Jerusalem.
+        The park boasts playgrounds, a skating rink, a children’s theatre, and lots of shady lawns.
+        Gan HaPa’amon is named for the miniature liberty bell at the entrance to the park.
+        The bell, a miniature of Philadelphia’s liberty bell, was added to the park in honor of the United States
+        centennial celebrations in 1976. The bell was a gift from the city of Philadelphia.</string>
+    <string name="bell_park_address">Intersection of Keren Hayesod and King David Street, Jerusalem</string>
+    <string name="bell_park_url">https://www.triphobo.com/places/jerusalem-israel/liberty-bell-park</string>
+
+    <!-- The Rose Garden -->
+    <string name="rose_garden_name">The Wohl Rose Garden</string>
+    <string name="rose_garden_summary">A wonderful place to relax</string>
+    <string name="rode_garden_times">7am untl 10pm</string>
+    <string name="rose_garden_description">Wohl Rose Garden is a public garden in Givat Ram, Jerusalem, located opposite
+        the Knesset and government precinct, at the foot of the Israeli Supreme Court. Over 400 varieties of roses are grown there,
+        many of them gifts from countries around the world. It is one of the few rose parks of its kind in the Middle East,
+        where there is no rainfall in summer. The park\'s Garden of Nations is made up of sections donated by other countries.
+        Each section has rose varieties characteristic of, or grown in, the respective country.
+        The park also has an experimental section where new varieties of roses are tested for their suitability for
+        public and private gardens in Israel </string>
+    <string name="rose_garden_address">Eliezer Kaplan Street Jerusalem</string>
+    <string name="rose_garden_url">https://www.tripadvisor.com/Attraction_Review-g293983-d558590-Reviews-Wohl_Rose_Garden-Jerusalem_Jerusalem_District.html</string>
+
+    <!-- The Botanical Gardens -->
+    <string name="bot_gardens_name">The Botanical Gardens</string>
+    <string name="bot_gardens_summary">For the flower lovers</string>
+    <string name="bot_gardens_times">9am untl 7pm</string>
+    <string name="bot_gardens_description">The Jerusalem Botanical Gardens is a gem in the heart of Jerusalem.
+        It serves as an education, learning and research center, holds a diverse collection of plants from around the world
+        which are displayed geographically and is a destination for tourism, recreation and cultural events.
+        At around 30 acres, the Jerusalem Botanical Gardens is the largest in Israel.
+        There are over 6,000 species and varieties of plants from around the world – Israel’s largest collection of live plants
+         displayed in 6 phyto-geographical sections – Southern Africa, Europe, North America, Australia, South-East
+        and Central Asia and the Mediterranean. The sections simulate the landscapes of these areas and so there is always
+        something blooming at the Jerusalem Botanical Gardens.</string>
+    <string name="bot_gardens_address">Zalman Shneur Street 1, Jerusalem</string>
+    <string name="bot_gardens_url">https://www.botanic.co.il/en/</string>
+    <string name="bot_gardens_phone_number">+9722&#8211;6794012</string>
+
+    <!-- Gan Sachar-->
+    <string name="gan_sachar_name">Gan Sachar</string>
+    <string name="gan_sachar_summary">A great place for a picnic</string>
+    <string name="gan_sachar_times">Open 24 Hours</string>
+    <string name="gan_sachar_description">The first thing one notices when presented with the expanse of west
+        Jerusalem\'s Gan Sacher (Sacher Park) is a simple plant common in much of the world but rare
+        in the big cities and towns of Israel: grass. Jerusalem, for all its venerable charm,
+        is not a particularly verdant city, with only its parks offering any large amount of green space.
+        But the parks are impressive, and Gan Sacher is the best of the lot, a kilometers-long stretch of
+        space separating Nachlaot and Rechavia from the government complex housing the Knesset and the Supreme Court.</string>
+    <string name="gan_sachar_address">Ben Zvi Boulevard</string>
+    <string name="gan_sachar_url">https://www.tripadvisor.com/Attraction_Review-g293983-d8460341-Reviews-Gan_Sacher_Park-Jerusalem_Jerusalem_District.html</string>
+
+    <!-- Entrecote -->
+    <string name="entrecote_name">Entrecote</string>
+    <string name="entrecote_summary">A fine Fleshig Restaurant</string>
+    <string name="entrecote_times">12pm unitl 12am</string>
+    <string name="entrecote_description">The focus at Entrecote is on meat – prepared on the grill or in a taboon (brick oven).
+        Entrecote is located in Har Hotzvim and enjoys beautiful views. The menu offers diners a Kosher le-Mehadrin meat menu
+        (Glatt Kosher - Rabbi Mahfoud). The courteous waiting staff provide friendly, professional service. Entrecote got its
+        name because of the restaurant\'s flagship dish – premium, juicy entrecote steaks aged for several weeks at an unchanging
+        temperature and then spiced with a special spice mixture created by the chef and owner, Dudu Asraf. Our terrific steaks
+        are served in five weights - 300, 500, 700 and 900 grams.</string>
+    <string name="entrecote_address">1 Hamarpeh Street, Har Hotzvim</string>
+    <string name="entrecote_url">http://www.entrecote.rest-e.co.il/</string>
+    <string name="entrecote_phone_number">+972539443066</string>
+
+    <!-- Skyline -->
+    <string name="skyline_name">Skyline Restaurant</string>
+    <string name="skyline_summary">A restaurant with a view</string>
+    <string name="skyline_times">12pm until 12am</string>
+    <string name="skyline_description">Skyline Chef is one of the most unique restaurants in all of Jerusalem.
+        The breathtaking panoramic views of the city from the roof top of the Jerusalem Gardens Hotel and Spa make dining
+        a memorable experience. The restaurant provides an intimate setting for both indoor and outdoor dining.All foods from
+        the breads and dips to the desserts are made on the premises thus providing the freshest possible taste experience.
+        The menus are seasonal and focus is given to the daily specials.
+        The highest standards of kashrut are adhered to and Skyline Chef is strictly OU Glatt Mehadrin and
+        Rabbanut Mehadrin and uses Rubin meat.</string>
+    <string name="skyline_address">4 Zeev Vilnai Sreett Jerusalem</string>
+    <string name="skyline_url">http://www.skylinejerusalem.com/</string>
+    <string name="skyline_phone_number">+9722&#8211;6558847</string>
+
+    <!-- Sheyan -->
+    <string name="sheyan_name">Sheyan Asian Restaurant</string>
+    <string name="sheyan_summary">Jerusalem\'s finest asian restaurant</string>
+    <string name="sheyan_times">12pm until 3pm and 6pm until 11pm</string>
+    <string name="sheyan_description">Sheyan is a Chinese/Asian restaurant situated in the historic windmill in Jerusalem\'s Rehavia
+        neighborhood. The kosher restaurant (whose name means “the last rays of sunset” and is also the name of the city where
+        the first restaurant in China was opened), offers a successful fusion of traditional Chinese cuisine with Jerusalem\'s
+        one-of-a-kind atmosphere. Its menu features kosher dishes from several Asian cuisines, among them those of
+        Northern China, Mongolia, Hong Kong, Thailand and Japan.</string>
+    <string name="sheyan_address">8 Ramban Jerusalem</string>
+    <string name="sheyan_url">http://www.sheyan.rest-e.co.il/</string>
+    <string name="sheyan_phone_number">+972539428640</string>
+
+    <!-- Ricotta -->
+    <string name="ricotta_name">Ricotta Restaurant</string>
+    <string name="ricotta_summary">Italian style milky restaurant</string>
+    <string name="ricotta_times">8am till the last diner</string>
+    <string name="ricotta_description">Ricotta, a strictly kosher, Italian dairy restaurant is located in one of the most
+        impressive buildings in Jerusalem\s high-tech district, at the entrance to Har Hotzvim, enjoying high quality atmosphere,
+        a panoramic view and clear, mountain air.The restaurant\'s quiet location is perfect for intimate get-togethers far from the noise of the city.
+    </string>
+    <string name="ricotta_address">Science Park 3 Har Hotzvim</string>
+    <string name="ricotta_url">http://www.ricotta.rest-e.co.il/</string>
+    <string name="ricotta_number">+97253&#8211;8095155
+</string>
+
+    <!-- Waffle Bar -->
+    <string name="waffle_name">Waffle Bar</string>
+    <string name="waffle_summary">Great waffle, great times</string>
+    <string name="waffle_times">8am until 11:30pm</string>
+    <string name="waffle_description">Waffle Bar restaurant in Ramat Eshkol is located in the commercial center
+        near the post office. It has a small indoor seating area and an enclosed seating space outdoors.
+        In the good weather there is additional outdoor seating under umbrellas. </string>
+    <string name="waffle_address">7 Paran Street Jerusalem</string>
+    <string name="waffle_url"></string>
+    <string name="waffle_phone_number">+9722&#8211;5815434</string>
+
+    <!--Katzefet -->
+    <string name="katzefet_name">Katzefet</string>
+    <string name="katzefet_summary">Delicious Italian Ice Cream</string>
+    <string name="katzefet_times"></string>
+    <string name="katzefet_description">Katzefet Ice Cream is a Kosher Mehadrin yogurt and ice cream store with a huge selection of ice cream
+        (including soft ice cream), bio yogurt, soft yogurt in four flavors, frozen yogurt, ice coffee, vanilla ice,
+        passion fruit ice, French crepes, Belgian waffles, hot and cold drinks, fruit shakes, smoothies, milkshakes
+        and ice cream cakes.The store offers free whipped cream and toppings.</string>
+    <string name="katzefet_address">Rav-shefa Mall, Romema</string>
+    <string name="katzefet_url">https://www.itraveljerusalem.com/rst/katzefet-ice-cream/</string>
+    <string name="katzefet_phone_number">+9722&#8211;6253722</string>
+
+</resources>

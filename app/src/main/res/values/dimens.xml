@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- circle radius for card view -->
+    <dimen name="corner_radius">2dp</dimen>
+
+    <!-- margins for card view text views -->
+    <dimen name="card_textView_marginLeft">16dp</dimen>
+    <dimen name="card_textView_marginTop">8dp</dimen>
+
+    <!-- text sizes -->
+    <dimen name="location_name_textSize">24sp</dimen>
+    <dimen name="descriptionHeaderSize">22sp</dimen>
+    <dimen name="opening_hours_textSize">12sp</dimen>
+    <dimen name="description_textSize">14sp</dimen>
+
+    <dimen name="text_margin_left">16dp</dimen>
+
+    <dimen name="attraction_card_main_height">240dp</dimen>
+    <dimen name="attraction_image_main_height">160dp</dimen>
+
+
+    <dimen name="detail_image_height">240dp</dimen>
+
+    <dimen name="TextViewDrawablePadding">16dp</dimen>
+
+    <dimen name="dp_12">12dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+</resources>
